@@ -55,9 +55,10 @@ I'm an aspiring **Embedded Systems Engineer** passionate about Embedded Hardware
 <h3 align="left">🛠️ Tools & Platforms</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,arduino" height="45" />
-  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img src="./images/altium-designer.png" height="45" alt="Altium Designer" />
   <img src="https://img.shields.io/badge/Thonny_IDE-3776AB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blynk_IoT-23C48E?style=for-the-badge&logo=blynk&logoColor=white" />
+  
 </p>
 ## Connect With Me
 
