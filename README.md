@@ -1,82 +1,64 @@
 <!-- ===================== HEADER ===================== -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Rough+Draft&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&repeat=false&lines=Hi%2C+I+am+Govathayagan+R+%F0%9F%91%8B%3BHi%2C+I+am+Govathayagan+R+%F0%9F%91%8B" alt="Hi, I am Govathayagan R" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Rough+Draft&weight=700&size=32&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I+am+Govathayagan+R+%F0%9F%91%8B" />
 </h1>
-## About Me
+About Me
 
-- Interested in Embedded Hardware and Embedded Systems Development.
-- Experienced in PCB Design and Circuit Development.
-- Exploring Microcontroller-Based Hardware Projects.
-- Interested in Hardware Testing, Debugging, and IoT Applications.
-- Continuously improving my Embedded C and Electronics skills.
+I'm an aspiring **Embedded Systems Engineer** passionate about Embedded Hardware Development, PCB Design, and Microcontroller-Based Systems.
 
----
+- 🔧 Interested in Embedded C and Firmware Development.
+- ⚡ Hands-on experience in PCB Design and Hardware Development.
+- 💻 Exploring Microcontrollers, Sensors, and Embedded Systems.
+- 🔌 Interested in UART, SPI, and I2C communication protocols.
+- 🚀 Passionate about developing practical hardware and embedded solutions.
+- 🎯 Continuously learning and improving my engineering skills.
 
-## Technical Skills
+<!-- TECHNICAL SKILLS -->
 
-**Programming Languages**
+<h2 align="left">
+  🛠️ Technical Skills
+</h2>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-283593?style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Microcontrollers & Development Boards**
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**Hardware & PCB Design**
-
-![PCB Design](https://img.shields.io/badge/PCB%20Design-00897B?style=flat-square)
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
-![Circuit Design](https://img.shields.io/badge/Circuit%20Design-455A64?style=flat-square)
-
-**Communication Protocols**
-
-![UART](https://img.shields.io/badge/UART-546E7A?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-546E7A?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-546E7A?style=flat-square)
-
-**Development Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## Featured Projects
-
-### 1. Microcontroller-Based Development Board
-- Designed a custom microcontroller-based development board.
-- Worked on schematic design and PCB layout.
-- Focused on component placement, routing, and design rule checks.
-
-**Technologies:** PCB Design, Microcontrollers, Electronics.
-
-### 2. Embedded Systems Projects
-- Microcontroller-based applications.
-- Sensor interfacing and peripheral communication.
-- Embedded C programming.
-
-**Technologies:** Embedded C, ESP32, STM32, Arduino.
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<h3 align="left">💻 Programming Languages</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" height="45" />
+  <br>
+  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Basic-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<h3 align="left">⚡ Microcontrollers & Development Boards</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="45" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32_Basic-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi_Pico_W-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 
----
+<h3 align="left">🔌 Communication Protocols</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/UART-00A6A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SPI-0077B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/I2C-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wi--Fi-00C7B7?style=for-the-badge&logo=wifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
+</p>
 
+<h3 align="left">🔧 PCB Design</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Schematic_Capture-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PCB_Layout-0077B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PCB_Routing-00A6A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Footprint_Creation-6A5ACD?style=for-the-badge" />
+</p>
+
+<h3 align="left">🛠️ Tools & Platforms</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,arduino" height="45" />
+  <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thonny_IDE-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blynk_IoT-23C48E?style=for-the-badge&logo=blynk&logoColor=white" />
+</p>
 ## Connect With Me
 
 <p align="center">
