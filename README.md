@@ -31,25 +31,28 @@ I'm an aspiring **Embedded Systems Engineer** passionate about Embedded Hardware
 
 <h3 align="left">Microcontrollers & Development Boards</h3>
 
-<p align="center">
-  <img src="./images/esp32.png" height="100" alt="ESP32" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/stm32.png" height="100" alt="STM32" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/raspberry-pi-pico-w.png" height="250"alt="Raspberry Pi Pico W" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./images/arduino-uno.png" height="100" alt="Arduino UNO" />
-</p>
-
-<p align="center">
-  <b>ESP32</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>STM32</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Raspberry Pi Pico W</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Arduino UNO</b>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/arduino-uno.png" height="110" alt="Arduino UNO" />
+    </td>
+    <td align="center">
+      <img src="./images/esp32.png" height="110" alt="ESP32" />
+    </td>
+    <td align="center">
+      <img src="./images/raspberry-pi-pico-w.png" height="80" alt="Raspberry Pi Pico W" />
+    </td>
+    <td align="center">
+      <img src="./images/stm32.png" height="110" alt="STM32" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Arduino UNO</b></td>
+    <td align="center"><b>ESP32</b></td>
+    <td align="center"><b>Raspberry Pi Pico W</b></td>
+    <td align="center"><b>STM32</b></td>
+  </tr>
+</table>
 
 <h3 align="left"> Communication Protocols</h3>
 <p align="left">
