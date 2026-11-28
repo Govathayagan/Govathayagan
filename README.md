@@ -29,13 +29,25 @@ I'm an aspiring **Embedded Systems Engineer** passionate about Embedded Hardware
 
 <!-- Microcontrollers & Development Boards -->
 
-<h3 align="left"> Microcontrollers & Development Boards</h3>
-<p align="left">
-  
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32_Basic-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi_Pico_W-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+
+<h3 align="left">Microcontrollers & Development Boards</h3>
+
+<p align="center">
+  <img src="./images/esp32.png" width="100" height="100" alt="ESP32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/stm32.png" width="100" height="100" alt="STM32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/raspberry-pi-pico-w.png" width="100" height="100" alt="Raspberry Pi Pico W" />
 </p>
+
+<p align="center">
+  <b>ESP32</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>STM32</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Raspberry Pi Pico W</b>
+</p>
+
 
 <h3 align="left"> Communication Protocols</h3>
 <p align="left">
