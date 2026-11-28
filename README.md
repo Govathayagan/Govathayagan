@@ -58,8 +58,8 @@ I'm an aspiring **Embedded Systems Engineer** passionate about Embedded Hardware
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,arduino" height="45" />
   <img src="./images/altium-designer.png" height="45" alt="Altium Designer" />
-  <img src="./images/blynk-iot.png" height="45" alt="Blynk IoT" />
-  <img src="https://img.shields.io/badge/Thonny_IDE-3776AB?style=for-the-badge" />   
+  <img src="./images/mplab-x-ide.png" height="45" alt="MPLAB X IDE" />
+  <img src="./images/proteus.png" height="45" alt="Proteus" />
 </p>
 
 
