@@ -38,14 +38,18 @@ I'm an aspiring **Embedded Systems Engineer** passionate about Embedded Hardware
   <img src="./images/stm32.png" width="100" height="100" alt="STM32" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./images/raspberry-pi-pico-w.png" width="100" height="100" alt="Raspberry Pi Pico W" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/arduino-uno.png" width="100" height="100" alt="Arduino UNO" />
 </p>
 
 <p align="center">
   <b>ESP32</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <b>STM32</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Raspberry Pi Pico W</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Arduino UNO</b>
 </p>
 
 
