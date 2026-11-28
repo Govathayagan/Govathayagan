@@ -34,16 +34,16 @@ I'm an aspiring **Embedded Systems Engineer** passionate about Embedded Hardware
 <table>
   <tr>
     <td align="center">
-      <img src="./images/arduino-uno.png" height="110" alt="Arduino UNO" />
+      <img src="./images/arduino-uno.png" height="150" alt="Arduino UNO" />
     </td>
     <td align="center">
-      <img src="./images/esp32.png" height="110" alt="ESP32" />
+      <img src="./images/esp32.png" height="150" alt="ESP32" />
     </td>
     <td align="center">
-      <img src="./images/raspberry-pi-pico-w.png" height="80" alt="Raspberry Pi Pico W" />
+      <img src="./images/raspberry-pi-pico-w.png" height="100" alt="Raspberry Pi Pico W" />
     </td>
     <td align="center">
-      <img src="./images/stm32.png" height="110" alt="STM32" />
+      <img src="./images/stm32.png" height="250" alt="STM32" />
     </td>
   </tr>
   <tr>
